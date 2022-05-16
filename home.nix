@@ -46,5 +46,7 @@
   signal-desktop
   alacritty
   vimPlugins.vim-plug
+  nextcloud-client
+  calibre
   ];
 }
