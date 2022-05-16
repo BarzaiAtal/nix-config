@@ -140,6 +140,7 @@
     jetbrains.pycharm-professional # Python
     jetbrains.idea-ultimate        # Java
     vscode
+    ark                 # ARK for KDE (zips)
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
